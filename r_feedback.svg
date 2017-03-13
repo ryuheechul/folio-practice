@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="41px" viewBox="0 0 50 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>r_feedbaack</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.91457638,27.7247248 L1.1812773e-13,33.3932458 L7.36709283,30.9049667 L38.6864481,30.9049667 C40.3462901,30.9049667 41.6925682,29.5656808 41.6925682,27.9135878 L41.6925682,2.99137897 C41.6925682,1.34782009 40.3466824,3.55271368e-15 38.6864481,3.55271368e-15 L4.92069643,3.55271368e-15 C3.26085443,3.55271368e-15 1.91457638,1.33928598 1.91457638,2.99137897 L1.91457638,27.7247248 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3.5" y="-3.5" width="48.6925682" height="40.3932458">
+            <rect x="-3.5" y="-3.5" width="48.6925682" height="40.3932458" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="r_feedbaack" transform="translate(-39.000000, -43.000000)">
+            <g transform="translate(43.000000, 47.000000)">
+                <g id="Combined-Shape">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use stroke="#E2304C" mask="url(#mask-2)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group-4" transform="translate(8.000000, 13.000000)" fill="#E2304C">
+                    <path d="M5.55242736,2.74990889 C5.55242736,1.23122588 4.3095676,0 2.77612113,0 C1.24285975,0 0,1.23122588 0,2.74990889 C0,4.26859191 1.24285975,5.49981779 2.77612113,5.49981779 C4.3095676,5.49981779 5.55242736,4.26859191 5.55242736,2.74990889" id="Fill-3-Copy-2"></path>
+                    <path d="M16.6249613,2.74990889 C16.6249613,1.23122588 15.3821015,0 13.8486551,0 C12.3153937,0 11.0725339,1.23122588 11.0725339,2.74990889 C11.0725339,4.26859191 12.3153937,5.49981779 13.8486551,5.49981779 C15.3821015,5.49981779 16.6249613,4.26859191 16.6249613,2.74990889" id="Fill-5-Copy-2"></path>
+                    <path d="M27.6974952,2.74990889 C27.6974952,1.23122588 26.4546355,0 24.921189,0 C23.3879276,0 22.1450679,1.23122588 22.1450679,2.74990889 C22.1450679,4.26859191 23.3879276,5.49981779 24.921189,5.49981779 C26.4546355,5.49981779 27.6974952,4.26859191 27.6974952,2.74990889" id="Fill-7-Copy-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
